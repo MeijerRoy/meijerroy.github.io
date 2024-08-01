@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+\## Bio {#sec-bio}
+
+\## This is a short BIO about me.

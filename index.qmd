@@ -1,11 +1,14 @@
 ---
-title: "meijerroy.github.io"
+about: 
+  template: trestles
+  image: Profile Picture/UM-Profile Picture.jpg
+  links: 
+    - icon: github
+      # text: github
+      href: https://github.com/MeijerRoy
+    - icon: linkedin
+      # text: linkedIN
+      href: https://www.linkedin.com/in/roy-meijer
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Roy Meijer \| ROA, School of Business & Economics, Maastricht University
