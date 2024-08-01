@@ -20,6 +20,8 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/roy-meijer
 
+    google-analytics: "G-S4Z8G29JNE"
+
 format:
   html:
     theme:
