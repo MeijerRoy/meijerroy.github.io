@@ -27,6 +27,8 @@ format:
     theme:
       dark: darkly
       light: flatly
+    css: styles.css
+    toc: true
 
 editor: visual
 
