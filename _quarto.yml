@@ -9,6 +9,10 @@ website:
         text: Home
       - href: About/about.qmd
         text: About
+      - href: Research/research.qmd
+        text: Research
+      - href: Teaching/teaching.qmd
+        text: Teaching
 
     right:
       - icon: github
