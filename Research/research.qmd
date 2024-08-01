@@ -5,3 +5,5 @@ title: "Research"
 # PhD Research
 
 The PhD project focuses on improving the Dutch labour market forecasts by assessing the reliability and exploring the potential of using additional data and applying different estimation techniques.
+
+# Projects
