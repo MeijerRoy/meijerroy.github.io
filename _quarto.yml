@@ -20,7 +20,8 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/roy-meijer
 
-    google-analytics: "G-S4Z8G29JNE"
+    google-analytics:
+      tracking-id: "G-S4Z8G29JNE"
 
 format:
   html:
