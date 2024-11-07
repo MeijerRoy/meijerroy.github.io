@@ -1,3 +1,5 @@
+![](Profile picture/UM-Profile Picture.jpg){fig-align="left"}
+
 ---
 about: 
   template: trestles
