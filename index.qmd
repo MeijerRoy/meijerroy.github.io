@@ -1,9 +1,7 @@
-![](Profile picture/UM-Profile Picture.jpg){fig-align="left"}
-
 ---
 about: 
   template: trestles
-  image: Profile Picture/UM-Profile Picture.jpg
+  image: Profile picture/UM-Profile Picture.jpg
   links: 
     - icon: linkedin
       # text: linkedIN
