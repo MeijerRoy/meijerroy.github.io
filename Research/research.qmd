@@ -7,3 +7,13 @@ title: "Research"
 The PhD project focuses on improving the Dutch labour market forecasts by assessing the reliability and exploring the potential of using additional data and applying different estimation techniques.
 
 # Projects
+
+# Conferences
+
+## [NetMob 2024](https://netmob.org/) 
+
+The NetMob conference is a primary conference on the analysis of mobile phone datasets in social, urban, societal and industrial problems.
+
+NetMob 2024 took place on 7-9 October 2024 at [the World Bank Group](https://www.worldbank.org/ext/en/home) in Washington D.C., U.S.A.
+
+As part of the conference Data Challenge, we were invited to present a poster.
