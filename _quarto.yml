@@ -1,3 +1,6 @@
+### Also run in Terminal "quarto render"
+# (The button only runs "quarto preview" which is not sufficient when pushing the changes to GitHub)
+
 project:
   type: website
 
