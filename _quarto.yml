@@ -15,10 +15,15 @@ website:
         text: Teaching
 
     right:
-      - icon: github
-        href: https://github.com/MeijerRoy
       - icon: linkedin
         href: https://www.linkedin.com/in/roy-meijer
+      - icon: person-circle
+        href: https://roa.nl/p70078533
+      - icon: file-earmark-text-fill
+        href: https://cris.maastrichtuniversity.nl/en/persons/roy-meijer
+      - icon: github
+        href: https://github.com/MeijerRoy
+        # Find all available icons here: https://icons.getbootstrap.com/
 
   google-analytics:
     tracking-id: "G-S4Z8G29JNE"

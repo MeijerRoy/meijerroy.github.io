@@ -3,14 +3,19 @@ about:
   template: trestles
   image: Profile Picture/UM-Profile Picture.jpg
   links: 
-    - icon: github
-      # text: github
-      href: https://github.com/MeijerRoy
     - icon: linkedin
       # text: linkedIN
       href: https://www.linkedin.com/in/roy-meijer
+    - icon: person-circle
+      href: https://roa.nl/p70078533
+    - icon: file-earmark-text-fill
+      href: https://cris.maastrichtuniversity.nl/en/persons/roy-meijer
+    - icon: github
+      # text: github
+      href: https://github.com/MeijerRoy
 ---
 
 Hi!
 
 I am a PhD candidate at the Research Centre for Education and the Labour Market (ROA), Maastricht University.
+
