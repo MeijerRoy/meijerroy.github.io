@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "Teaching/teaching.html",
-    "href": "Teaching/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
-  },
-  {
-    "objectID": "Teaching/teaching.html#academic-year-2023-2024",
-    "href": "Teaching/teaching.html#academic-year-2023-2024",
-    "title": "Teaching",
-    "section": "",
-    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
-  },
-  {
     "objectID": "Research/research.html",
     "href": "Research/research.html",
     "title": "Research",
@@ -33,5 +19,26 @@
     "title": "Roy Meijer",
     "section": "",
     "text": "Hi!\nI am a PhD candidate at the Research Centre for Education and the Labour Market (ROA), Maastricht University."
+  },
+  {
+    "objectID": "Teaching/teaching.html",
+    "href": "Teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)\n\n\n\n\n\nQuantitative Methods III (EBS2001)"
+  },
+  {
+    "objectID": "Teaching/teaching.html#academic-year-2023-2024",
+    "href": "Teaching/teaching.html#academic-year-2023-2024",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
+  },
+  {
+    "objectID": "Teaching/teaching.html#academic-year-2024-2025",
+    "href": "Teaching/teaching.html#academic-year-2024-2025",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)"
   }
 ]
