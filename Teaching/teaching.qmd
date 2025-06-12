@@ -13,3 +13,4 @@ title: "Teaching"
 ## Academic Year 2024-2025
 
 -   Quantitative Methods III ([EBS2001](https://code.unimaas.nl/Code/Display?intCalendarID=31&intBAMA=1&SearchString=EBS2001))
+-   Quantitative Business ([EBC2025](https://code.unimaas.nl/Code/Display?intCalendarID=31&intBAMA=1&SearchString=EBC2025))

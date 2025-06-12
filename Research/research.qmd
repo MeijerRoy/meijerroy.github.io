@@ -10,10 +10,16 @@ The PhD project focuses on improving the Dutch labour market forecasts by assess
 
 # Conferences
 
-## [NetMob 2024](https://netmob.org/) 
+## [NetMob 2024](https://netmob.org/)
 
 The NetMob conference is a primary conference on the analysis of mobile phone datasets in social, urban, societal and industrial problems.
 
 NetMob 2024 took place on 7-9 October 2024 at [the World Bank Group](https://www.worldbank.org/ext/en/home) in Washington D.C., U.S.A.
 
 As part of the conference Data Challenge, we were invited to present a poster.
+
+# Workshops
+
+[BIBB-IAB-ROA Workshop 2025](https://www.bibb.de/de/206083.php)
+
+Joint workshop of the Federal Institute for Vocational Education and Training (BIBB), the Institute for Employment Research (IAB) and the Research Centre for Education and the Labour Market (ROA), held in Bonn on June 2 & 3, 2025.
