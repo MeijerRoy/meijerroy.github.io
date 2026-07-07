@@ -11,14 +11,21 @@ The PhD project focuses on improving the Dutch labour market forecasts by assess
 ## [Unfolding population resilience and socioeconomic disparities in response to cyclones in India: Insights from mobile phone data](https://doi.org/10.1016/j.pdisas.2026.100615)
 
 Journal:Progress in Disaster Science
+
 Issue: Volume 31, October 2026, 100615
+
 Authors: Roy Meijer, Timur Naushirvanov, Ziyue Zhu, Yijie Zhou, Yueyang Yi
 
 Highlights:
+
 -   High-frequency mobile phone data reveal anticipatory responses to cyclones in India.
+
 -   Estimates show post-landfall declines and a gradual return of population presence.
+
 -   Socioeconomic heterogeneity: richer areas show steeper declines and slower rebounds.
+
 -   Community detection analysis indicates that relocations are mainly intra-community.
+
 -   Findings show the need for equity-informed planning and the use of mobile phone data.
 
 # Conferences
