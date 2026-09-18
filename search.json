@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "Teaching/teaching.html",
-    "href": "Teaching/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)\n\n\n\n\n\nQuantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
-  },
-  {
-    "objectID": "Teaching/teaching.html#academic-year-2023-2024",
-    "href": "Teaching/teaching.html#academic-year-2023-2024",
-    "title": "Teaching",
-    "section": "",
-    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
-  },
-  {
-    "objectID": "Teaching/teaching.html#academic-year-2024-2025",
-    "href": "Teaching/teaching.html#academic-year-2024-2025",
-    "title": "Teaching",
-    "section": "",
-    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
-  },
-  {
     "objectID": "About/about.html",
     "href": "About/about.html",
     "title": "About",
@@ -39,7 +18,7 @@
     "href": "Research/research.html#unfolding-population-resilience-and-socioeconomic-disparities-in-response-to-cyclones-in-india-insights-from-mobile-phone-data",
     "title": "Research",
     "section": "Unfolding population resilience and socioeconomic disparities in response to cyclones in India: Insights from mobile phone data",
-    "text": "Unfolding population resilience and socioeconomic disparities in response to cyclones in India: Insights from mobile phone data\nJournal:Progress in Disaster Science\nIssue: Volume 31, October 2026, 100615\nAuthors: Roy Meijer, Timur Naushirvanov, Ziyue Zhu, Yijie Zhou, Yueyang Yi\nHighlights:\n\nHigh-frequency mobile phone data reveal anticipatory responses to cyclones in India.\nEstimates show post-landfall declines and a gradual return of population presence.\nSocioeconomic heterogeneity: richer areas show steeper declines and slower rebounds.\nCommunity detection analysis indicates that relocations are mainly intra-community.\nFindings show the need for equity-informed planning and the use of mobile phone data."
+    "text": "Unfolding population resilience and socioeconomic disparities in response to cyclones in India: Insights from mobile phone data\n\n\nJournal: Progress in Disaster Science Issue: Volume 31, October 2026, 100615\nAuthors: Roy Meijer, Timur Naushirvanov, Ziyue Zhu, Yijie Zhou, Yueyang Yi\nHighlights: - High-frequency mobile phone data reveal anticipatory responses to cyclones in India. - Estimates show post-landfall declines and a gradual return of population presence. - Socioeconomic heterogeneity: richer areas show steeper declines and slower rebounds. - Community detection analysis indicates that relocations are mainly intra-community. - Findings show the need for equity-informed planning and the use of mobile phone data.\n\n\n\nConferences\n\nISF 2026\nThe International Symposium on Forecasting (ISF) is the premier forecasting conference, attracting the world’s leading forecasting researchers, practitioners, and students. Through a combination of keynote speaker presentations, academic sessions, workshops, and social programs, the ISF provides many excellent opportunities for networking, learning, and fun.\nThe 46th International Symposium on Forecasting will take place June 28 – July 1, 2026 in Montreal, Canada.\nDuring the conference, I participated in two workshops: (1) “Forecasting with Temporal Hierarchies” and (2) “How to make sure that your forecasts make sense? Workshop on forecast evaluation”.\nFurthermore, I contributed to the conference by presenting an ongoing project titled: “Improving occupational expansion demand forecasts by using higher-frequency data”.\n\n\nNetMob 2024\nThe NetMob conference is a primary conference on the analysis of mobile phone datasets in social, urban, societal and industrial problems.\nNetMob 2024 took place on 7-9 October 2024 at the World Bank Group in Washington D.C., U.S.A.\nAs part of the conference Data Challenge, we were invited to present a poster.\n\n\nWorkshops\nBIBB-IAB-ROA Workshop 2025\nJoint workshop of the Federal Institute for Vocational Education and Training (BIBB), the Institute for Employment Research (IAB) and the Research Centre for Education and the Labour Market (ROA), held in Bonn on June 2 & 3, 2025."
   },
   {
     "objectID": "Research/research.html#isf-2026",
@@ -61,5 +40,26 @@
     "title": "Roy Meijer",
     "section": "",
     "text": "Hi!\nI am a PhD candidate at the Research Centre for Education and the Labour Market (ROA), Maastricht University."
+  },
+  {
+    "objectID": "Teaching/teaching.html",
+    "href": "Teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)\n\n\n\n\n\nQuantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
+  },
+  {
+    "objectID": "Teaching/teaching.html#academic-year-2023-2024",
+    "href": "Teaching/teaching.html#academic-year-2023-2024",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
+  },
+  {
+    "objectID": "Teaching/teaching.html#academic-year-2024-2025",
+    "href": "Teaching/teaching.html#academic-year-2024-2025",
+    "title": "Teaching",
+    "section": "",
+    "text": "Quantitative Methods III (EBS2001)\nQuantitative Business (EBC2025)"
   }
 ]
