@@ -37,14 +37,14 @@ Highlights:
 
 # Conferences
 
-## \[ELMI-BIR 2026\]
+## ELMI-BIR 2026
 
 ::::: columns
-::: {.column width="50%"}
+::: {.column width="65%"}
 During the 2026 ELMI-BIR conference on October 12 & 13 in Maastricht, the Netherlands, I presented a poster title: "Improving Occupational Expansion Demand Forecasts by Using Mixed-Frequency Data".
 :::
 
-::: {.column width="50%"}
+::: {.column width="35%"}
 ![](Pictures/ELMI-BIR%20-%20Poster%20R.Meijer%20v20261002.png)
 :::
 
