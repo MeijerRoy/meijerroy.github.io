@@ -10,8 +10,8 @@ The PhD project focuses on improving the Dutch labour market forecasts by assess
 
 ## [Unfolding population resilience and socioeconomic disparities in response to cyclones in India: Insights from mobile phone data](https://doi.org/10.1016/j.pdisas.2026.100615)
 
-::::: columns
-:::: {.column width="65%"}
+:::::::: columns
+::: {.column width="65%"}
 Journal: Progress in Disaster Science Issue: Volume 31, October 2026, 100615
 
 Issue: Volume 31, October 2026, 100615
@@ -29,15 +29,30 @@ Highlights:
 -   Community detection analysis indicates that relocations are mainly intra-community.
 
 -   Findings show the need for equity-informed planning and the use of mobile phone data.
-
 :::
 
 ::: {.column width="35%"}
 ![](Pictures/Fig1.IBTrACS%20North%20Indian%20Basin.png)
 :::
 
-
 # Conferences
+
+## \[ELMI-BIR 2026\]
+
+::::: columns
+::: {.column width="50%"}
+During the 2026 ELMI-BIR conference on October 12 & 13 in Maastricht, the Netherlands, I presented a poster title: "Improving Occupational Expansion Demand Forecasts by Using Mixed-Frequency Data".
+:::
+
+::: {.column width="50%"}
+![](Pictures/ELMI-BIR%20-%20Poster%20R.Meijer%20v20261002.png)
+:::
+
+## [De Nederlandse Arbeidsmarktdag 2026](https://www.arbeidsmarktdag.nl/)
+
+The Dutch labour market day (De Nederlandse Arbeidsmarktdag (NAD)) is a national conference on labour and the labour market aiming at policy makers, practicioners and research. The NAD2026 took place in Amersfoort, the Netherlands on October, 8th 2026.
+
+I contributed to the session on demand and supply, by presenting a summary of the labour market forecasts and emphasizing the policy relevance. The presentation was titled: "The usefulness of labour market forecasts: Improvements and innovations".
 
 ## [ISF 2026](https://isf.forecasters.org/)
 
@@ -59,8 +74,8 @@ As part of the conference Data Challenge, we were invited to present a poster.
 
 # Workshops
 
-[BIBB-IAB-ROA Workshop 2025](https://www.bibb.de/de/206083.php)
+## [BIBB-IAB-ROA Workshop 2025](https://www.bibb.de/de/206083.php)
 
 Joint workshop of the Federal Institute for Vocational Education and Training (BIBB), the Institute for Employment Research (IAB) and the Research Centre for Education and the Labour Market (ROA), held in Bonn on June 2 & 3, 2025.
-::::
 :::::
+::::::::
